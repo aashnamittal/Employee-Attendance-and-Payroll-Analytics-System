@@ -155,8 +155,6 @@ CREATE TABLE Attendance_Stats (
 
 ## 5. Sample Data Insertion (DML)
 
-*(Note: For the interview, you only need a handful of rows to prove the logic works. Here is a representative subset.)*
-
 ```sql
 -- Insert Departments
 INSERT INTO Departments (department_name, manager_name) VALUES 
