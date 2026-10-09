@@ -2,9 +2,6 @@
 
 ## 1. Project Overview
 This database-driven system is designed to manage employee records, track daily attendance, handle leave requests, and automate monthly salary calculations. It is structured to be scalable and demonstrates strong relational database principles. 
-
-This project is perfectly tailored for an internship interview. It touches on all major Database Management System (DBMS) concepts, starting from basic table creation up to advanced components like Views, Stored Procedures, and Triggers.
-
 ---
 
 ## 2. ER Diagram & Database Schema
