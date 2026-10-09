@@ -1,6 +1,7 @@
 # Employee Attendance & Payroll Analytics System
 
 ## 1. Project Overview
+
 This database-driven system is designed to manage employee records, track daily attendance, handle leave requests, and automate monthly salary calculations. It is structured to be scalable and demonstrates strong relational database principles. 
 ---
 
